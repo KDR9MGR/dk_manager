@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "90163557637",
+    "project_id": "inventory-managment-b6625",
+    "storage_bucket": "inventory-managment-b6625.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90163557637:android:391a7c03d2619ffe06b36c",
+        "android_client_info": {
+          "package_name": "com.example.dk_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90163557637-4adnngc96a93p8gjq244gi0i1ra3hp9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCVYcYfe5udrOmfIVBf50VloScDvyy1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90163557637-4adnngc96a93p8gjq244gi0i1ra3hp9t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90163557637-33d3ff1shen00raf987jfp7nmd4rmssd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.inventoryManagmentWebapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90163557637:android:ae9e18c8dd70d27c06b36c",
+        "android_client_info": {
+          "package_name": "com.example.inventory_managment_webapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90163557637-5mh2leamtfir61d9loc6baboa4nd889e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inventory_managment_webapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "90163557637-4adnngc96a93p8gjq244gi0i1ra3hp9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCVYcYfe5udrOmfIVBf50VloScDvyy1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90163557637-4adnngc96a93p8gjq244gi0i1ra3hp9t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90163557637-33d3ff1shen00raf987jfp7nmd4rmssd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.inventoryManagmentWebapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90163557637:android:d74f25858d4df48306b36c",
+        "android_client_info": {
+          "package_name": "com.mycompany.inventorymanagmenr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90163557637-439gi9ek1r1uqaralb97k9jbgd0mqh2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.inventorymanagmenr",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "90163557637-4adnngc96a93p8gjq244gi0i1ra3hp9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCVYcYfe5udrOmfIVBf50VloScDvyy1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90163557637-4adnngc96a93p8gjq244gi0i1ra3hp9t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90163557637-33d3ff1shen00raf987jfp7nmd4rmssd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.inventoryManagmentWebapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
