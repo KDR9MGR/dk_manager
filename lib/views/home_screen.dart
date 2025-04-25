@@ -595,24 +595,24 @@ class _HomeScreenState extends State<HomeScreen> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   // App Logo in larger size
-                  Row(
-                    children: [
-                      Container(
-                        padding: const EdgeInsets.all(12),
-                        decoration: BoxDecoration(
-                          color: ColorTheme.onPrimary.withOpacity(0.1),
-                          borderRadius: BorderRadius.circular(16),
-                        ),
-                        child: Image.asset(
-                          'assets/images/dk_logo.png',
-                          width: 32,
-                          height: 32,
-                          color: ColorTheme.onPrimary,
-                        ),
-                      ),
-                    ],
-                  ),
-                  const SizedBox(height: 16),
+                  // Row(
+                  //   children: [
+                  //     Container(
+                  //       padding: const EdgeInsets.all(12),
+                  //       decoration: BoxDecoration(
+                  //         color: ColorTheme.onPrimary.withOpacity(0.1),
+                  //         borderRadius: BorderRadius.circular(16),
+                  //       ),
+                  //       child: Image.asset(
+                  //         'assets/images/dk_logo.png',
+                  //         width: 32,
+                  //         height: 32,
+                  //         color: ColorTheme.onPrimary,
+                  //       ),
+                  //     ),
+                  //   ],
+                  // ),
+                  // const SizedBox(height: 16),
                   Obx(() => Text(
                     'Hello, ${authController.userModel?.name ?? 'User'}',
                     style: Theme.of(context).textTheme.bodyLarge?.copyWith(
